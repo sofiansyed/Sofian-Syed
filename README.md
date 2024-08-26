@@ -1,2 +1,2 @@
-# Sofian-Syed
-HiveQL Queries
+# HiveQL Queries
+
